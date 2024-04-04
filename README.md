@@ -1,2 +1,17 @@
-# comparative-genomics
-Repository of code and files for the assembly, annotation, and comparative analysis of marine bacterial genomes. 
+# Using comparative genomics to determing the genomic basis for observed phenotypic differences in marine bacteria
+
+<!-- Code in R for the wrangling, statistical analysis, and visualization of experimental data assessing the impact of temperature and pressure on the motility of marine bacteria. -->
+
+## Description
+
+<!-- This repository includes code to perform statistical analyses (Mullane-etal-2023-stats.R) and plot data (Mullane-etal-2023-figures.R) to recreate figures seen in the above publication. -->
+
+## Table of Contents
+
+* [Installation](installation)
+* [Usage](usage)
+
+## Installation
+
+## Usage
+
